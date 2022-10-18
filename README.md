@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Beatrys, mas pode me chamar de Bya!!🎀🎀
 
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](beaanunciato39Gmail.com)
+
 
 ![Bya GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrys0111&show_icons=true&theme=synthwave)
 
