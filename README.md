@@ -20,4 +20,6 @@
 
 </div><br/>
 
-Apaixonada por programação e aprender coisas novas através da tecnologia! o(≧∀≦)o🎀
+Apaixonada por programação e aprender coisas novas através da tecnologia! o(≧∀≦)o🎀<b/>
+
+Email para contato: beaanunciato39@gmail.com
