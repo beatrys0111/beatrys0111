@@ -5,6 +5,7 @@
 
 ![Bya GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrys0111&show_icons=true&theme=synthwave)
 
+
 ## Tecnologias que uso no meu dia
 
 <div style= "display: inline_block"> <br/>
