@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Meu nome é Beatrys, mas pode me chamar de Bya!!</h1>
 <h3 align="center">Front</h3>
 
-- Apaixonada por programação e aprender coisas novas através da tecnologia!<b/>
+
 
 - Email para contato: beaanunciato39@gmail.com
 
