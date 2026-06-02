@@ -15,7 +15,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, com experiência em desenvo
 
 ### Projetos em destaque
 
-* TechTrack - Gerenciador de metas profissionais
 * Interface CID - Interface web responsiva desenvolvida em equipe
 * Automação de testes com Cypress
 
