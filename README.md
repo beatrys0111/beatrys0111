@@ -71,6 +71,4 @@ Gosto de explorar novas tecnologias, desenvolver projetos acadêmicos e descobri
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C7E8,DEC7FF&height=100&section=footer" width="100%" alt="Rodapé rosa e lilás"/>
 
-*Obrigada por visitar meu universo. Volte sempre para tomar um café com os gatinhos!* ☕🐾
-
 </div>
