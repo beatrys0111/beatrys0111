@@ -1,114 +1,116 @@
-# Olá, eu sou a Beatrys! 👋
+<div align="center">
 
-### Tecnologia, sistemas e inovação — construindo meu próximo nível.
+# 👾 Olá, eu sou a Beatrys (Bya)!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UNICID**, interessada em entender como a tecnologia funciona por trás das aplicações — do código à infraestrutura que mantém sistemas críticos em operação.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Front-End+Developer;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Algo+Novo;Bem-vindo+ao+meu+GitHub!" />
 
-Atualmente, sou **estagiária na IBM**, com contato com o universo de **Z Mainframe**. Estou ampliando meus conhecimentos sobre computação empresarial, servidores, data centers e novas tecnologias.
-
-Meu objetivo é continuar evoluindo tecnicamente, transformar conhecimento em projetos e participar da construção de soluções que façam a diferença.
+</div>
 
 ---
 
-## 🧠 Tech Stack & Interests
+## 🎮 Escolha sua jornada
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+<tr>
+<td align="center">
 
-**Também estudo e exploro:**
+### 💻 Desenvolvedora
 
-- 🧪 **Software Quality:** Cypress, Postman e JMeter.
-- 🖥️ **Enterprise Computing:** IBM Z, mainframes, sistemas legados e data centers.
-- 🤖 **Innovation:** inteligência artificial, acessibilidade digital e novas tecnologias.
-- 🗄️ **Data:** modelagem de dados e fundamentos de bancos de dados.
+Construindo interfaces, estudando tecnologias e transformando ideias em projetos.
 
----
+👉 [Ver Projetos](#-meus-projetos)
 
-## 🚀 Featured Projects
+</td>
 
-### ♿ LibrasVision
-Projeto acadêmico voltado à acessibilidade, explorando o reconhecimento de gestos da Língua Brasileira de Sinais por meio de câmera e a apresentação de legendas.
+<td align="center">
 
-### 🏥 Meu SUS Digital — Interface
-Projeto acadêmico de desenvolvimento de interface, com foco na experiência de uso de uma solução digital de saúde.
+### 🎲 Jogadora
 
-🔗 [Acessar repositório](https://github.com/beatrys0111/INTERFACE-MEUSUSDIGITAL)
+Você consegue descobrir todos os easter eggs deste README?
 
-### 🏋️ ARGO FITNESS
-Projeto acadêmico de modelagem de dados para uma academia, explorando entidades, atributos, relacionamentos e organização de informações.
+👉 [Começar Missão](#-mini-game)
 
-🔗 [Acessar repositório](https://github.com/beatrys0111/ARGOS-FITNESS)
-
-### 🤝 Interface CID
-Projeto colaborativo de desenvolvimento de interface, realizado em equipe.
-
-🔗 [Acessar repositório](https://github.com/peaga19/INTERFACE-CID)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧪 Quality Assurance
+# 🕹️ Mini Game
 
-Minha experiência anterior como Jovem Aprendiz na TOTVS me aproximou do desenvolvimento web e dos testes de software.
+### Missão 1
 
-Tive contato com:
-
-- Automação de testes funcionais com Cypress.
-- Testes de APIs com Postman.
-- Testes de desempenho com JMeter.
-- Análise de comportamentos inesperados e documentação de bugs.
-
-Acredito que desenvolver software também significa questionar, testar e entender o que acontece quando algo não funciona como deveria.
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatrys0111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrys0111&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🎯 Currently Exploring
+Qual tecnologia eu mais utilizo?
 
 <details>
-<summary><b>🖥️ Mainframe & Infrastructure</b></summary>
+<summary>HTML</summary>
 
-Aprendendo sobre IBM Z, sistemas empresariais, infraestrutura de TI, servidores e a arquitetura por trás de ambientes de missão crítica.
+❌ Quase!
 
 </details>
 
 <details>
-<summary><b>🧪 Software Testing</b></summary>
+<summary>Java</summary>
 
-Aprofundando meus conhecimentos em automação, testes de APIs, desempenho e qualidade de software.
+❌ Ainda não.
 
 </details>
 
 <details>
-<summary><b>🤖 AI & Accessibility</b></summary>
+<summary>Front-End com HTML, CSS e JavaScript</summary>
 
-Explorando possibilidades de aplicar inteligência artificial e desenvolvimento de software na criação de soluções mais acessíveis.
+✅ Acertou!
+
++50 XP
 
 </details>
 
 ---
 
-## 🌐 Let's Connect!
+### Missão 2
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrys-anunciato-70a237247/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatrys0111)
+Clique em apenas UM portal:
+
+| Portal |
+|----------|
+| 🔮 |
+| ⚔️ |
+| 🚀 |
+
+<details>
+<summary>🔮 Portal Misterioso</summary>
+
+Você encontrou um easter egg! ✨
+
+</details>
+
+<details>
+<summary>⚔️ Portal Guerreiro</summary>
+
+Você ganhou uma espada lendária (+10 força).
+
+</details>
+
+<details>
+<summary>🚀 Portal Tech</summary>
+
+Você desbloqueou o modo desenvolvedora.
+
+</details>
 
 ---
 
-<p align="center">
-  <i>"Understand the system. Question the process. Build something better."</i>
-</p>
+# 👩‍💻 Sobre Mim
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beatrys0111&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+```javascript
+const Beatrys = {
+    nickname: "Bya",
+    area: "Front-End",
+    location: "Brasil 🇧🇷",
+    hobbies: [
+        "Tecnologia",
+        "Games",
+        "UI/UX",
+        "Aprender coisas novas"
+    ]
+}
