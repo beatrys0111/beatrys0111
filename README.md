@@ -48,11 +48,34 @@ Gosto de explorar novas tecnologias, desenvolver projetos acadêmicos e descobri
 
 <div align="center">
 
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Linguagens e desenvolvimento
+
 ![Python](https://img.shields.io/badge/Python-FFE0F0?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-F3D9FF?style=for-the-badge&logo=php&logoColor=777BB4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF0B3?style=for-the-badge&logo=javascript&logoColor=323330)
 ![HTML5](https://img.shields.io/badge/HTML5-FFDCCF?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-E5DCFF?style=for-the
+![CSS3](https://img.shields.io/badge/CSS3-E5DCFF?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### 🧪 Testes e qualidade de software
+
+![Cypress](https://img.shields.io/badge/Cypress-D9F5E5?style=for-the-badge&logo=cypress&logoColor=17202C)
+![Postman](https://img.shields.io/badge/Postman-FFE1D6?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Apache JMeter](https://img.shields.io/badge/JMeter-FFDCE5?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
+
+### 🔧 Ferramentas e versionamento
+
+![Git](https://img.shields.io/badge/Git-FADBD8?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-EADCF8?style=for-the-badge&logo=github&logoColor=181717)
+![VS Code](https://img.shields.io/badge/VS%20Code-DCEEFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+### 🚀 Explorando
+
+![IBM Z Mainframe](https://img.shields.io/badge/IBM%20Z%20Mainframe-D9E8FF?style=for-the-badge&logo=ibm&logoColor=1261FE)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-F3D9FF?style=for-the-badge&logo=ibmwatson&logoColor=6929C4)
+
 
 <div align="center">
 
