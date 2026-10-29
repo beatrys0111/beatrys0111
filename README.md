@@ -54,7 +54,17 @@ Gosto de explorar novas tecnologias, desenvolver projetos acadêmicos e descobri
 ![HTML5](https://img.shields.io/badge/HTML5-FFDCCF?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-E5DCFF?style=for-the
 
+<div align="center">
 
+## 🎮 Jogue comigo: Cat Collector 🐈
+
+**Ajude a gatinha a coletar peixinhos e morangos!** 🍓🐟
+
+[![JOGAR CAT COLLECTOR](https://img.shields.io/badge/🐾%20JOGAR-Cat%20Collector-E879B9?style=for-the-badge)](https://beatrys0111.github.io/cat-collector/)
+
+*Controles pelo teclado ou celular · Pontuação · Recorde local · Rosa pastel*
+
+</div>
 
 
 ---
